@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1738
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AcWing_Base", "AcWing_Base\AcWing_Base.vcxproj", "{A35CC3F3-BDAC-4DA6-B8A2-DBA454B09464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A35CC3F3-BDAC-4DA6-B8A2-DBA454B09464}.Debug|x64.ActiveCfg = Debug|x64
+		{A35CC3F3-BDAC-4DA6-B8A2-DBA454B09464}.Debug|x64.Build.0 = Debug|x64
+		{A35CC3F3-BDAC-4DA6-B8A2-DBA454B09464}.Debug|x86.ActiveCfg = Debug|Win32
+		{A35CC3F3-BDAC-4DA6-B8A2-DBA454B09464}.Debug|x86.Build.0 = Debug|Win32
+		{A35CC3F3-BDAC-4DA6-B8A2-DBA454B09464}.Release|x64.ActiveCfg = Release|x64
+		{A35CC3F3-BDAC-4DA6-B8A2-DBA454B09464}.Release|x64.Build.0 = Release|x64
+		{A35CC3F3-BDAC-4DA6-B8A2-DBA454B09464}.Release|x86.ActiveCfg = Release|Win32
+		{A35CC3F3-BDAC-4DA6-B8A2-DBA454B09464}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1F70662-72EF-43B6-B9FC-28E7BDF9B5F6}
+	EndGlobalSection
+EndGlobal
